@@ -6,6 +6,9 @@
 	name="R617XL_16082019.bin"
 	comment="cypress"/>
 	<file
+	name="R617X_20082019.bin"
+	comment="fake TI"/>
+	<file
 	name="R619XL_16082019.bin"
 	comment="cypress r615x based"/>
 	<file
