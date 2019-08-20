@@ -1,0 +1,21 @@
+<files>
+	<file
+	name="R1220x_16082019.bin"
+	comment="Nuvotone"/>
+	<file
+	name="R617XL_16082019.bin"
+	comment="cypress"/>
+	<file
+	name="R619XL_16082019.bin"
+	comment="cypress r615x based"/>
+	<file
+	name="R820_16082019.bin"
+	comment="Nuvotone"/>
+	<file
+	name="RS8TM_16082019.bin"
+	comment="RTH with TM"/>
+
+
+<!-- http://developer.alexanderklimov.ru/android/theory/xmlpullparser.php -->
+
+</files>
