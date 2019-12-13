@@ -17,6 +17,12 @@
 	<file
 	name="RS8TM_16082019.bin"
 	comment="RTH with TM"/>
+	<file
+	name="FR6TB_16082019.frk"
+	comment="cc2640R2F + baro"/>
+	<file
+	name="FR6TB_16082020.frk"
+	comment="cc2640R2F + baro"/>
 
 
 <!-- http://developer.alexanderklimov.ru/android/theory/xmlpullparser.php -->
